@@ -33,9 +33,9 @@ Saya biasa menggunakan:
 
 ## 📬 Hubungi Saya
 
-- 📧 Email: kamu@email.com  
-- 🌐 Website: [meledakcik.dev](https://meledakcik.dev)  
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- 📧 Email: Private
+- 🌐 Website: Private 
+- 💼 LinkedIn: (https://www.linkedin.com/in/muhammad-kasyaf-anugrah-576460314/)
 - 🐙 GitHub: [@MeledakCik](https://github.com/MeledakCik)
 
 ---
