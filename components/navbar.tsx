@@ -1,8 +1,6 @@
 import { Input } from "@/components/ui/input"
-import { Button } from "@/components/ui/button"
 import { Search, Gamepad2, Users, Trophy, ScrollText, ShoppingBag, LogIn } from "lucide-react"
 import Image from "next/image"
-import Link from "next/link"
 
 export function Navbar() {
   return (
@@ -36,17 +34,6 @@ export function Navbar() {
             placeholder="Cari member, info war, atau layanan clan..."
           />
           <Search className="absolute left-4 top-3.5 h-5 w-5 text-gray-500" />
-        </div>
-
-        {/* Auth Buttons */}
-        <div className="flex items-center gap-2">
-          <Link href="/join">
-            <Button
-              className="rounded-xl bg-primary hover:bg-primary/80 text-black font-bold px-6 h-11 shadow-lg shadow-primary/20 transition-all hover:-translate-y-0.5"
-            >
-              Gabung Clan
-            </Button>
-          </Link>
         </div>
       </div>
 
